@@ -8,7 +8,7 @@ This repository contains an end-to-end Natural Language Processing (NLP) pipelin
 - **Evaluation Metrics:** Reports accuracy, precision, recall, and F1-score on training and development sets.
 - **Custom Callbacks:** Includes a debugging callback to log training progress and early stopping for optimal performance.
 - **Final Predictions:** Outputs predictions on test data in a structured CSV format.
-- 
+  
 ## Instructions 
 1. Ensure you have the required libraries installed (transformers, datasets, pandas, numpy, scikit-learn)
 2. Place the training and test datasets (`train.csv` and `test.csv`) in an appropriate directory
